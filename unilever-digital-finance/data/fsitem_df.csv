@@ -1,0 +1,368 @@
+FS Item,FS Item Name,L01
+PL0001,GSV Third Party Sales,Turnover
+PL0002,GSV 3rd Party Sales Reduct-Damaged and Unsaleables,Turnover
+PL0003,GSV Third Party Sales Reduct-Logistic Deductions,Turnover
+PL0004,GSV Third Party - Tax On Invoice,Turnover
+PL0005,GSV Third Party - Tax Off Invoice,Turnover
+PL0006,GSV Third Party - Tax Others,Turnover
+PL0009,Efficient Operations Terms - Efficient Order On,Turnover
+PL0010,Efficient Operations Terms - Efficient Order Off,Turnover
+PL0011,Efficient Operatios Terms-Supply Chain Improve On,Turnover
+PL0012,Efficient Operation Terms-Supply Chain Improve Off,Turnover
+PL0013,Efficient Operations Terms - Prompt Payment On,Turnover
+PL0014,Efficient Operations Terms - Prompt Payment Off,Turnover
+PL0015,Efficient Operations Terms - Payment Method On,Turnover
+PL0016,Efficient Operations Terms - Payment Method Off,Turnover
+PL0017,BBT-OSA-Establish Portf On-Others,Turnover
+PL0019,BBT-OSA-Establish Port On-Contract,Turnover
+PL0020,Business Building Terms-OSA-Establish Portf Off,Turnover
+PL0021,Business Building Terms - OSA - New Product On,Turnover
+PL0022,Business Building Terms - OSA - New Product Off,Turnover
+PL0023,Business Building Terms-EV-Establish Portfolio On,Turnover
+PL0024,Business Building Terms-EV-Establish Portfolio Off,Turnover
+PL0025,Business Building Terms - EV - New Product On,Turnover
+PL0026,Business Building Terms - EV - New Product Off,Turnover
+PL0027,Business Building Terms - CPP On - Others,Turnover
+PL0028,Business Building Terms - CPP On - Promotional,Turnover
+PL0029,Business Building Terms - CPP On - Directed,Turnover
+PL0031,Business Building Terms - CPP Off - Others,Turnover
+PL0033,Business Building Terms - CPP Off - Promotional,Turnover
+PL0034,Business Building Terms - CPP Off - Marketing,Turnover
+PL0035,Business Building Terms - CPP Off - Directed,Turnover
+PL0037,Business Building Terms - CPP Off - Agreements,Turnover
+PL0038,Business Building Terms - Coupon Expense,Turnover
+PL0039,Business Building Terms - TCC On,Turnover
+PL0040,Business Building Terms - TCC Off - Others,Turnover
+PL0041,Business Building Terms - TCC Off - Sales,Turnover
+PL0042,Business Building Terms - TCC Off - Agreements,Turnover
+PL0043,Trade Terms - Results Oriented On,Turnover
+PL0044,Trade Terms - Results Oriented Off - Others,Turnover
+PL0046,Trade Terms - Results Oriented Off - Agreements,Turnover
+PL0047,Trade Terms - Results Oriented Off - Partnership,Turnover
+PL0048,Trade Terms - Customer Specific On - Others,Turnover
+PL0050,Trade Terms-Customer Specific On -Temp Discount,Turnover
+PL0051,Trade Terms - Customer Specific Off - Others,Turnover
+PL0052,Trade Terms - Customer Specific Off - Sales,Turnover
+PL0053,Trade Terms - Customer Specific Off - Market,Turnover
+PL0054,Trade Terms - Customer Specific Off - Trade,Turnover
+PL0055,Trade Terms-Customer Specific Off -Temp Discount,Turnover
+PL0056,Trade Terms - Customer Specific Off - Funds,Turnover
+PL0057,Trade Terms-Customer Specific Off -Inauguration,Turnover
+PL0058,Trade Terms - Customer Specific Off - Disputes,Turnover
+PL0059,Trade Terms - Other General On - Others,Turnover
+PL0060,Trade Terms-Other General On-Category and General,Turnover
+PL0062,Trade Terms - Other General Off - Others,Turnover
+PL0064,Trade Terms - Other General Off - Agreements,Turnover
+PL0065,Trade Terms - Other General Off - Partnership,Turnover
+PL0066,Raw Material Cost of Sales - Chocolate,Supply Chain Cost
+PL0067,Raw Material Cost of Sales-Confection&Baked Goods,Supply Chain Cost
+PL0068,Raw Material Cost of Sales - Dairy & Eggs,Supply Chain Cost
+PL0069,Raw Material Cost of Sales - Fine Chemicals,Supply Chain Cost
+PL0070,Raw Material Cost of Sales - Food Fine Chemicals,Supply Chain Cost
+PL0071,"Raw Material Cost of Sales - Flour, Cereal & Pasta",Supply Chain Cost
+PL0072,Raw Material Cost of Sales-Fragrances and Flavours,Supply Chain Cost
+PL0073,Raw Material Cost of Sales - Fruits and Vegetables,Supply Chain Cost
+PL0074,Raw Material Cost of Sales - Inorganics,Supply Chain Cost
+PL0075,Raw Material Cost of Sales - LAB/LAS,Supply Chain Cost
+PL0076,Raw Material Cost of Sales - Liquid Oils,Supply Chain Cost
+PL0077,"Raw Material Cost of Sales-Meat, Seafood&Condiment",Supply Chain Cost
+PL0078,Raw Material Cost of Sales - Natural Chemicals,Supply Chain Cost
+PL0079,Raw Material Cost of Sales - Nuts and Peanuts,Supply Chain Cost
+PL0080,Raw Material Cost of Sales - Other Chemicals,Supply Chain Cost
+PL0081,Raw Material Cost of Sales - Other Commodities,Supply Chain Cost
+PL0082,Raw Material Cost of Sales-Other Food Ingredients,Supply Chain Cost
+PL0083,Raw Material Cost of Sales - Petrochemicals,Supply Chain Cost
+PL0084,"Raw Material COS-Starch&Derivatives,Thicken,Emuls",Supply Chain Cost
+PL0085,Raw Material Cost of Sales - Sugar,Supply Chain Cost
+PL0086,Raw Material Cost of Sales - Flavour Enhancers,Supply Chain Cost
+PL0087,Raw Material Cost of Sales - Tea,Supply Chain Cost
+PL0088,Raw Material Cost - Inventory Adjustment,Supply Chain Cost
+PL0089,Raw Material Cost - Exchange Rate Variation,Supply Chain Cost
+PL0090,Raw Material Cost - Others,Supply Chain Cost
+PL0091,Packaging Cost of Sales - Asseptic Cartons,Supply Chain Cost
+PL0092,Packaging Cost of Sales - Cartons,Supply Chain Cost
+PL0093,Packaging Cost of Sales - Corrugated,Supply Chain Cost
+PL0094,Packaging Cost of Sales - Labels,Supply Chain Cost
+PL0095,"Packaging Cost of Sales-Metal, Can, Caps and Glass",Supply Chain Cost
+PL0096,Packaging Cost of Sales - Other Packaging,Supply Chain Cost
+PL0097,Packaging Cost of Sales - Pouch/Wraps,Supply Chain Cost
+PL0098,Packaging Cost of Sales - Rigid Plastics,Supply Chain Cost
+PL0099,Packaging Cost of Sales - Tubs and Lids,Supply Chain Cost
+PL0100,Packaging Cost - Exchange Rate Variation,Supply Chain Cost
+PL0101,Packaging Cost - Inventory Adjustment,Supply Chain Cost
+PL0102,PCost of Sales - Repacking 3rdP,Supply Chain Cost
+PL0103,Packaging Cost - Others,Supply Chain Cost
+PL0104,Production Cost of Sales - Other Production Cost,Supply Chain Cost
+PL0105,Production Cost of Sales - Sourcing Unit Transport,Supply Chain Cost
+PL0106,Production Cost - Others,Supply Chain Cost
+PL0107,Bought in Product from 3rd Party,Supply Chain Cost
+PL0108,Bought in Product Cost - Exchange Rate Variation,Supply Chain Cost
+PL0109,Bought in Product Cost - Others,Supply Chain Cost
+PL0110,Bought in Product Cost - PE Reclassification,Supply Chain Cost
+PL0111,Bought in Product from Unilever (ICO),Supply Chain Cost
+PL0112,Bought in Product MSO,Supply Chain Cost
+PL0113,Intercompany Sales - Exchange Rate Variation,Supply Chain Cost
+PL0114,Intercompany Sales - Others,Supply Chain Cost
+PL0115,Alloc Charge Supply Cost-Category Statistical Cost,Supply Chain Cost
+PL0116,Alloc Charge Supply Cost-Regional Statistical Cost,Supply Chain Cost
+PL0117,Allocated Charge Supply Cost-Corp Statistical Cost,Supply Chain Cost
+PL0118,Buying & Planning Cost of Sales,Supply Chain Cost
+PL0119,Buying & Planning Cost - Others,Supply Chain Cost
+PL0120,Secondary Freight Cost,Supply Chain Cost
+PL0121,Primary Freight Cost of Sales,Supply Chain Cost
+PL0122,Primary Freight Cost - Others,Supply Chain Cost
+PL0123,Warehousing Cost,Supply Chain Cost
+PL0124,DC Pallets Cost,Supply Chain Cost
+PL0125,Bought in Products Miscellaneous,Supply Chain Cost
+PL0127,Supply Support Cost of Sales,Supply Chain Cost
+PL0128,Transfer Adjustment to Allocated SCC,Supply Chain Cost
+PL0129,Supply Support Cost - Others,Supply Chain Cost
+PL0130,Write Off - Materials,Supply Chain Cost
+PL0131,Write Off - Finished Goods,Supply Chain Cost
+PL0132,Inventory Adjustment - Finished Goods,Supply Chain Cost
+PL0133,"Plant, Property and Equipment Write off - SC",Supply Chain Cost
+PL0134,Other Sales SC,Supply Chain Cost
+PL0135,R2,Supply Chain Cost
+PL0154,Market Research - Trade,Overheads
+PL0155,Market Research - Consumer,Overheads
+PL0156,Marketing Development,Overheads
+PL0157,Product Development,Overheads
+PL0158,Marketing Activation,Overheads
+PL0159,Sales Overheads,Overheads
+PL0160,UASCC General Overheads - Charge-in,Overheads
+PL0161,UASCC General Overheads - Charge-out,Overheads
+PL0162,Research,Overheads
+PL0163,Other Trading Items,Overheads
+PL0164,Allocate Charge Overhead-Category Statistical Cost,Overheads
+PL0165,UASCC Restructuring - Charge-in,Non-Underlying Items (TBC)
+PL0167,Impairment,Non-Underlying Items (TBC)
+PL0168,P/L on Disposal,Non-Underlying Items (TBC)
+PL0177,Raw Material Cost of Sales-Tropical Oils & Tallow,Supply Chain Cost
+PL0178,Packaging Cost of Sales - Premium Materials,Supply Chain Cost
+PL0179,PCost of Sales - Subcontrac,Supply Chain Cost
+PL0181,Other General Overheads,Overheads
+PL0182,Allocate Charge Overhead-Regional Statistical Cost,Overheads
+PL0183,Alloc Charges Overheads-Corporate Statistical Cost,Overheads
+PL0184,Other Restructuring,Non-Underlying Items (TBC)
+PL0193,Intercompany Sales to MSO,Supply Chain Cost
+PL0218,Intercompany Sales to Other SC company,Supply Chain Cost
+PL0224,A&D Related Costs,Non-Underlying Items (TBC)
+PL0239,Allocated Charges Restructuring Category,Non-Underlying Items (TBC)
+PL0255,Trade Terms - Distributor Margins On,Turnover
+PL0256,Trade Terms - Distributor Margins Off,Turnover
+PL0261,Production Cost of Sales - SU Fixed Depreciation,Supply Chain Cost
+PL0262,Production Cost of Sales - Labor Variable,Supply Chain Cost
+PL0263,Production Cost of Sales - Labor Fixed,Supply Chain Cost
+PL0264,Production Cost of Sales - Utility Variable,Supply Chain Cost
+PL0265, Production Cost of Sales - Utility Fixed,Supply Chain Cost
+PL0266,Production Cost of Sales - BWI Proc Cost Variab,Supply Chain Cost
+PL0267,Production Cost of Sales - BWI Proc Cost Fixed,Supply Chain Cost
+PL0268,Production Cost of Sales - Repair & Maintenance,Supply Chain Cost
+PL0269,Production Cost of Sales - Warehousing/Palletiz,Supply Chain Cost
+PY0001,Turnover Prior Year,Turnover Prior Year
+PY0003,Sales Volume - Equivalent Units - Prior Year,Equivalent Units Prior Year
+TTS1080,Deflated Turnover,Deflated Turnover
+TTS1081,Hyperinflation TO Adjustment,Hyperinflation TO Adjustment
+TTS1082,Hyperinflation SCC Adjustment,Hyperinflation SCC Adjustment
+TTS1083,Hyperinflation BMI Adjustment,Hyperinflation BMI Adjustment
+TTS1084,Hyperinflation OVH Adjustment,Hyperinflation OVH Adjustment
+TTS1090,Deflated Gross Sales Value,Deflated Gross Sales Value
+TTS1100,Deflated Efficient Operations,Deflated Efficient Operations
+TTS1110,Deflated Business Building Terms,Deflated Business Building Terms
+TTS1120,Deflated BBT CPP,Deflated BBT CPP
+TTS1130,Deflated Other Terms,Deflated Other Terms
+VA0002,Acquisition Turnover,Acquisition Turnover
+VA0004,Deflated Acquisition Turnover,Deflated Acquisition Turnover
+VA0005,Disposal Turnover,Disposal Turnover
+VO0003,Sales Volume - Equivalent Units - afo,Equivalent Units AFO
+VO0004,Sales Volume - Pallets,Pallets
+VO0005,Sales Volume - Cases,Cases
+VO0006,Sales Volume - Eaches,Eaches
+VO0007,Sales Volume - Kilograms,Kilograms
+VO0008,Sales Volume - Liters,Liters
+VA0003,Deflated Current Year Turnover,Deflated Turnover
+VA4001,Deflated Gross Sales Value,Deflated Gross Sales Value
+VA4002,Deflated Efficient Operations,Deflated Efficient Operations
+VA4003,Deflated Total Business Building Terms,Deflated Total Business Building Terms
+VA4004,Deflated BBT CPP,Deflated BBT CPP
+VA4005,Deflated Other Trade Terms,Deflated Other Trade Terms
+VA4006,Hyperinflation TO Adjustment,Hyperinflation TO Adjustment
+VO0001,Sales Volume - Tons,Tons
+VO0002,Sales Volume - Litons,Litons
+VO7773,Sales Volume - Equivalent Units - Special,Equivalent Units
+S0200,Gross Sales Value (GSV),Turnover
+S0300,Efficient Operations - Logistic,Turnover
+S0310,Efficient Operations - Payment,Turnover
+S0322,Business Building - Price (CPP),Turnover
+S0350,Business Building - Promotion (TCC),Turnover
+S0351,Business Building - Product,Turnover
+S0352,Business Building - Pack,Turnover
+S0353,Business Building - Place,Turnover
+S0354,Business Building - Proposition,Turnover
+S0335,Results Oriented Terms,Turnover
+S0340,Customer Specific Non Counterpart terms,Turnover
+S0341,Customer Specific Distributor Margins,Turnover
+S0337,Permanent Price Reductions,Turnover
+P0000,Raw Material Costs,Supply Chain Cost
+P0020,Packaging Material Costs,Supply Chain Cost
+P0060,Bought-in Products - Concern,Supply Chain Cost
+P0061,Bought-in Products - Third Party,Supply Chain Cost
+P0040,Production Costs,Supply Chain Cost
+P0240,Distribution Costs,Supply Chain Cost
+P0331,Supply Chain Overheads,Supply Chain Cost
+P0288,Allocated Charges Supply Chain Costs Total,Supply Chain Cost
+P4000,Business Waste Material Write-Off,Supply Chain Cost
+P4040,BW Material W-Off – RM/PM & Semi FG,Supply Chain Cost
+P4045,BW Material W-Off – Finished Goods,Supply Chain Cost
+P4010,Business Waste-Fixed Assets w/off & R2,Supply Chain Cost
+S4001,Deflated Gross Sales Value,Deflated Gross Sales Value
+S4002,Deflated Efficient Operations,Deflated Efficient Operations
+S4003,Deflated Total Business Building Terms,Deflated Business Building Terms
+S4004,of which Deflated BBT CPP,Deflated BBT CPP
+S4005,Deflated Other Trade Terms,Deflated Other Terms
+S4041,Deflated Acquisition Gross Sales Value,Acquisition Turnover
+S4042,Deflated Acquisition Efficient Operations,Acquisition Turnover
+S4043,Deflated Acq Total Business Building Terms,Acquisition Turnover
+S4044,of which Deflated Acquisition BBT CPP,Acquisition Turnover
+S4045,Deflated Acquisition Other Trade Terms,Acquisition Turnover
+P0080,p.m. COGS Supply Chain Production Depreciation,Supply Chain Cost
+S4050,Acquisition Supply Chain Cost,Acquisition Turnover
+S4051,Acquisition BMI,Acquisition Turnover
+S4020,Disposal Turnover,Disposal Turnover
+S4055,Disposal Supply Chain Cost,Disposal Supply Chain Cost
+S4056,Disposal BMI,Disposal BMI
+S4010,Deflated Acquisition Turnover,Deflated Acquisition Turnover
+V0030,CY Sales Volume (tonnes),Kilograms
+V0040,PY Sales Volume (tonnes),PY Kilograms BCS
+V0050,Acquisition Sales Volume (tonnes),Acquisition Sales Volume (tonnes)
+V0060,Disposal Sales Volume (tonnes),Disposal Sales Volume (tonnes)
+V0070,CY Sales Volume (Litonnes (IC)),Liters
+V0075,PY Sales Volume (Litonnes (IC)),PY Liters BCS
+V0080,Acquisition Sales Volume (Litonnes (IC)),Acquisition Sales Volume (Litonnes (IC))
+V0085,Disposal Sales Volume (Litonnes (IC)),Disposal Sales Volume (Litonnes (IC))
+P3081,Allocated Charges Overheads Total,Overheads
+P1701,Research,Overheads
+P2910,Total OTIs,Overheads
+P2911,Marketing Activation,Overheads
+P2920,Sales Overheads,Overheads
+P1810,Market Research - Trade,Overheads
+P1820,Market Research - Consumer,Overheads
+P1702,Product Development,Overheads
+P1704,Marketing Development,Overheads
+P2950,Total General Overheads,Overheads
+P2927,Restructuring,Non-Underlying Items (TBC)
+P2935,A&D Related Costs,Non-Underlying Items (TBC)
+P2914,Profit/loss on disposal,Non-Underlying Items (TBC)
+P2928,Impairment,Non-Underlying Items (TBC)
+P2930,Approved one-offs,Non-Underlying Items (TBC)
+VO9993,Toneladas Equivalentes,Toneladas Equivalentes
+PE Tactico Cat,PE Tactico Cat,PE Tactico Cat
+PL2808,Releases,Turnover
+P3055,FC OHUC - BG Specific,BG Specific
+P3058,FC OHUC - UniOps,UniOps
+P3056,FC OHUC - National CD,National Geo Cost
+P3057,FC OHUC - National Other & Global,UL Bus Op
+PL0136,Off-line Media - TV - Trade,Brand & Marketing Investment
+PL0139,Off-line Media - TV - Consumer,Brand & Marketing Investment
+PL0271,Off-line Media - Non-TV Traditional - Consumer,Brand & Marketing Investment
+PL0137,Off-line Media - Non-TV Traditional - Trade,Brand & Marketing Investment
+PL0272,Paid Social Video & Display - Consumer,Brand & Marketing Investment
+PL0273,Paid Social others - Consumer,Brand & Marketing Investment
+PL0274,Paid Search - Consumer,Brand & Marketing Investment
+PL0275,Digital Video & Display - Consumer,Brand & Marketing Investment
+PL0276,Connected TV - Consumer,Brand & Marketing Investment
+PL0140,Digital others - Consumer,Brand & Marketing Investment
+PL0277,Influencer Talent fees - Consumer,Brand & Marketing Investment
+PL0278,Influencer Agency fees - Consumer,Brand & Marketing Investment
+PL0279,Media Boosting fees - Consumer,Brand & Marketing Investment
+PL0149,Advertising Production Cost -Trade,Brand & Marketing Investment
+PL0280,Advertising Production Cost Pre -Testing - Trade,Brand & Marketing Investment
+PL0141,Advertising Production Cost - Consumer,Brand & Marketing Investment
+PL0282,Advertising Production Cost Pre -Testing - Consumer,Brand & Marketing Investment
+PL0142,Advertising Production Cost - Consumer,Brand & Marketing Investment
+PL0283,Agency Remuneration Fees - Trade,Brand & Marketing Investment
+PL0284,Media Buying Fees - Trade,Brand & Marketing Investment
+PL0143,Agency Remuneration Fees - Consumer,Brand & Marketing Investment
+PL0233,Media Buying Fees - Consumer,Brand & Marketing Investment
+PL0144,Agency Remuneration Fees - Consumer,Brand & Marketing Investment
+PL0234,Media Buying Fees - Consumer,Brand & Marketing Investment
+PL0235,Tech Content & Insight,Brand & Marketing Investment
+PL0257,Consumer Engagement Lines,Brand & Marketing Investment
+PL0138,PR & Cause Related Marketing Trade,Brand & Marketing Investment
+PL0180,PR Consumer Royalties,Brand & Marketing Investment
+PL0146,PR & Cause Related Marketing Consumer,Brand & Marketing Investment
+PL0147,Allocated Charges Advertising Corporate,Brand & Marketing Investment
+PL0148,Allocated Charges Advertising Category,Brand & Marketing Investment
+PL0225,Retail Media Search,Brand & Marketing Investment
+PL0286,Retail Media Video & Display,Brand & Marketing Investment
+PL0226,Retail Media others,Brand & Marketing Investment
+PL0246,Promotion Packaging Material Cost Trade,Brand & Marketing Investment
+PL0245,Promotion Packaging Material Cost Consumer,Brand & Marketing Investment
+PL0287,Promotion Repacking Cost Trade,Brand & Marketing Investment
+PL0285,Promotion Repacking Cost Consumer,Brand & Marketing Investment
+PL0248,Promotion Communication Material Cost Trade,Brand & Marketing Investment
+PL0247,Promotion Communication Material Cost Consumer,Brand & Marketing Investment
+PL0250,"Promotion Samples, Gifts, Incentives Costs Consumer",Brand & Marketing Investment
+PL0249,"Promotion Samples, Gifts, Incentives Costs Consumer",Brand & Marketing Investment
+PL0252,Promotion Team Cost Trade,Brand & Marketing Investment
+PL0251,Promotion Team Cost Consumer,Brand & Marketing Investment
+PL0254,Promo Agency Remuneration Fees & Commissions Trade,Brand & Marketing Investment
+PL0253,Promo Agency Remuneration Fees & Commissions Consumer,Brand & Marketing Investment
+PL0260,Customer Sales Equipment,Brand & Marketing Investment
+PL0258,Marchandising Trade,Brand & Marketing Investment
+PL0259,Marchandising Consumer,Brand & Marketing Investment
+PL0126,Sales Equipment/ Cabinets,Brand & Marketing Investment
+PL0145,Channel Agency Commission & Fees Trade,Brand & Marketing Investment
+PL0150,Promotional Expenses Consumer,Brand & Marketing Investment
+PL0151,Promotional Expenses - Trade Sales,Brand & Marketing Investment
+PL0152,Promotional Expenses - Trade Marketing,Brand & Marketing Investment
+PL0153,Promotional Expenses - Trade Others,Brand & Marketing Investment
+P1020,Advertising Production Costs - Traditional,Brand & Marketing Investment
+P1070,Advertising Fees - Traditional,Brand & Marketing Investment
+P1155,Advertising Production Costs - Digital,Brand & Marketing Investment
+P1090,Advertising Fees - Digital,Brand & Marketing Investment
+P1000,Media Costs - Traditional,Brand & Marketing Investment
+P1150,Media Costs - Digital,Brand & Marketing Investment
+P1180,Media Costs - Retail Traditional,Brand & Marketing Investment
+P1170,Media Costs - Retail Digital,Brand & Marketing Investment
+P1095,Earned Media,Brand & Marketing Investment
+P1220,Consumer Engagement Centre,Brand & Marketing Investment
+P1493,Promotion Packs Manufacturing Cost,Brand & Marketing Investment
+P1494,Promotion Communication Material Cost,Brand & Marketing Investment
+P1495,"Promo Samples,Gifts and Incentive Costs",Brand & Marketing Investment
+P1496,Promotion Team Cost,Brand & Marketing Investment
+P1497,Promo Agency Remun Fees & Commissions,Brand & Marketing Investment
+P0270,Customer Sales Equipment,Brand & Marketing Investment
+P1240,Other Point of Sale Investment,Brand & Marketing Investment
+P1515,Allocated Charges Advertising Total,Brand & Marketing Investment
+P4020,Business Waste - Others,Supply Chain Cost
+P1111,TV,Brand & Marketing Investment
+P1112,Non-TV Traditional,Brand & Marketing Investment
+P1121,Paid Social Video & Display,Brand & Marketing Investment
+P1122,Paid Social others,Brand & Marketing Investment
+P1131,Paid Search,Brand & Marketing Investment
+P1132,Digital Video & Display,Brand & Marketing Investment
+P1133,Connected TV,Brand & Marketing Investment
+P1134,Digital others,Brand & Marketing Investment
+P1141,Influencer Talent fees,Brand & Marketing Investment
+P1142,Influencer Agency fees,Brand & Marketing Investment
+P1143,Media Boosting fees,Brand & Marketing Investment
+P1255,Merchandising -Trade,Brand & Marketing Investment
+P1260,Merchandising - Consumer,Brand & Marketing Investment
+P1171,Retail Media Search,Brand & Marketing Investment
+P1172,Retail Media Video & Display,Brand & Marketing Investment
+P1185,Retail Media others,Brand & Marketing Investment
+P2940,Central Eliminations,Overheads
+S4057,Disposal Overheads Under Control,Disposal OVH
+S0900,Trade Terms,Turnover
+P0300,Supply Chain Costs -  Material,Supply Chain Cost
+P1200,Content & Support,Brand & Marketing Investment
+P1110,Traditional Media,Brand & Marketing Investment
+P1120,Social Media,Brand & Marketing Investment
+P1130,Digital Media (excl. Social),Brand & Marketing Investment
+P1140,Influencers,Brand & Marketing Investment
+P1230,PR & Sponsorship,Brand & Marketing Investment
+P1199,Retail Media,Brand & Marketing Investment
+P1499,Promotional Investment,Brand & Marketing Investment
+P1250,Point of Sale,Brand & Marketing Investment
+P3040,Overheads under Control,Overheads
